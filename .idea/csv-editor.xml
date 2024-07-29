@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CsvFileAttributes">
+    <option name="attributeMap">
+      <map>
+        <entry key="/movieReview/movies.csv/movies.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/movie_recommendations.csv/part-00012-51472200-ffa2-4795-bb54-0dfc59f27d85-c000.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/movie_recommendations.csv/part-00013-51472200-ffa2-4795-bb54-0dfc59f27d85-c000.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/user_recommendations.csv/_temporary/0/task_202407251437556919427978877389783_2220_m_000000/part-00000-f57c9b3a-fbee-44cd-9112-3bc5d6158f8c-c000.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/user_recommendations.csv/part-00158-f57c9b3a-fbee-44cd-9112-3bc5d6158f8c-c000.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

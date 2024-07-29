@@ -1,0 +1,19 @@
+{% extends "base.html" %}
+
+{% block title %}Movie Detail{% endblock %}
+
+{% block content %}
+<h2 id="movie-title"></h2>
+<p><strong>Year:</strong> <span id="movie-year"></span></p>
+<p><strong>Rating:</strong> <span id="movie-rating"></span></p>
+<p><strong>Critic Score:</strong> <span id="critic-score"></span></p>
+<p><strong>Critic Sentiment:</strong> <span id="critic-sentiment"></span></p>
+<p><strong>Audience Score:</strong> <span id="audience-score"></span></p>
+<p><strong>Audience Sentiment:</strong> <span id="audience-sentiment"></span></p>
+<p><strong>Release Date Theaters:</strong> <span id="release-date-theaters"></span></p>
+<p><strong>Release Date Streaming:</strong> <span id="release-date-streaming"></span></p>
+<p><strong>Original Language:</strong> <span id="original-language"></span></p>
+<p><strong>Runtime:</strong> <span id="runtime"></span></p>
+<p><strong>Quote:</strong> <span id="movie-quote"></span></p>
+<a href="{{ url_for('movies') }}">
+{% endblock %}
